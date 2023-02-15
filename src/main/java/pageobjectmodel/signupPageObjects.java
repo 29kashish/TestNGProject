@@ -6,6 +6,7 @@ import org.openqa.selenium.WebElement;
 
 public class signupPageObjects 
 {
+	// Added one new line for demo purpose
 	public WebDriver driver;
 	
 	private By firstName = By.xpath("//input[@name='UserFirstName']");
